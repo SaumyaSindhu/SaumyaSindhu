@@ -1,12 +1,17 @@
 # Hi there 👋, I'm Saumya Sindhu
 
-### 🚀 About Me
-I am a passionate **MERN Stack Developer** dedicated to building robust, scalable web applications. My current journey involves diving deep into real-time communication and backend architecture.
+<p align="left">
+  <img alt="Profile Views" />
+</p>
 
-- 💻 **MERN Specialist**: Crafting seamless experiences with MongoDB, Express, React, and Node.js.
-- 🔌 **Real-time Focus**: Currently architecting applications using **Socket.IO**.
-- 🧠 **System Design**: Constantly learning how to build highly scalable and efficient systems.
-- ⚡ **Product Driven**: I love the process of turning a raw idea into a functional, polished product.
+### 🚀 About Me
+I am a passionate **MERN Stack Developer** dedicated to building robust, scalable web applications. My current journey involves diving deep into real-time communication, modern frontend frameworks, and backend architecture.
+
+- 💻 **Full-Stack Developer**: Working with MERN + Next.js ecosystem  
+- 🔌 **Real-time Focus**: Building applications using **Socket.IO**  
+- 🤖 **GenAI Enthusiast**: Exploring AI integrations and intelligent systems  
+- 🧠 **System Design**: Learning scalable and efficient architectures  
+- ⚡ **Product Driven**: Turning ideas into functional, polished products  
 
 ---
 
@@ -14,18 +19,20 @@ I am a passionate **MERN Stack Developer** dedicated to building robust, scalabl
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | React, Redux, SCSS, HTML5, CSS3 |
+| **Frontend** | React, Next.js, Redux, Tailwind CSS, SCSS, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
 | **Real-time** | Socket.IO |
+| **GenAI** | AI API, LangChain (basics), RAG, Embeddings, Prompt Engineering |
 | **Tools** | Git, GitHub, Postman, VS Code |
 
 ---
 
 ### 📌 Current Focus & Goals
-* 🚀 **Real-time Chat App**: Developing a feature-rich communication platform.
-* 🏗️ **Backend Mastery**: Improving my understanding of design patterns and system architecture.
-* ✍️ **Clean Code**: Focused on writing modular, maintainable, and scalable codebases.
+* 🚀 **Real-time Chat App**: Developing a feature-rich communication platform  
+* 🤖 **GenAI Integration**: Adding AI-powered features into applications  
+* 🏗️ **Backend Mastery**: Improving system design & architecture skills  
+* ✍️ **Clean Code**: Writing scalable, maintainable codebases  
 
 ---
 
@@ -33,8 +40,8 @@ I am a passionate **MERN Stack Developer** dedicated to building robust, scalabl
 
 - Active contributor  
 - Consistent commits  
-- Focused on real-world projects  
-- Strong interest in backend and system design  
+- Focused on real-world & AI-powered projects  
+- Strong interest in backend and scalable systems  
 
 ---
 
@@ -44,4 +51,4 @@ I am a passionate **MERN Stack Developer** dedicated to building robust, scalabl
 ---
 
 ### 💡 Fun Fact
-> "I don’t just write code, I build systems ⚙️"
+> "I don’t just write code, I build scalable and intelligent systems ⚙️"
