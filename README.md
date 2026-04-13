@@ -19,8 +19,8 @@ I am a passionate **MERN Stack Developer** dedicated to building robust, scalabl
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Redux, Tailwind CSS, SCSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js |
+| **Frontend** | React, Next.js, Redux, JavaScript, SCSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, TypeScript |
 | **Database** | MongoDB |
 | **Real-time** | Socket.IO |
 | **GenAI** | AI API, LangChain (basics), RAG, Embeddings, Prompt Engineering |
